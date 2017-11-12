@@ -1,3 +1,3 @@
 PARTEEK
 is ready to learn some git
-new change
+new changes
